@@ -46,6 +46,6 @@ Scalable Analysis: Designed to handle large datasets with ease, demonstrating sk
 Data-Driven Insights: Highlights your ability to derive actionable insights from complex datasets.
 Real-World Application: Direct application to sports analytics, showcasing versatility and problem-solving skills.
 🤝 Connect
-Feel free to connect with me on LinkedIn(https://www.linkedin.com/in/mohd-owais-81441a24b/) to discuss this project or other data-driven opportunities!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-owais-81441a24b/) to discuss this project or other data-driven opportunities!
 
 
